@@ -1,1 +1,1 @@
-Equalization material for freedive/freediving training
+Equalization material for freedive/freediving training.
